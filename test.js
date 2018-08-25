@@ -29,3 +29,4 @@ function bigEsmArray(nameArr){
 //let myNewArray = []
 let myArray = ["hhj", "kjhnh", "hnhjn"]
 console.log(bigEsmArray(myArray))
+// some coment
